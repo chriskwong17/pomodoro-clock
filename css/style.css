@@ -1,0 +1,31 @@
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    background-color: #A3C266;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-family: book antiqua;
+    font-size: 50px;
+}
+
+#SessionDiv {
+   font-size:18pt;
+   font-family:times new roman;
+   font-weight:bold;
+   color:#23238e;
+}
+
+.columns { 
+  width: 600px;  
+  margin: auto;
+}
+
+.columns div{ 
+  width: 200px; 
+  float: left; 
+}
